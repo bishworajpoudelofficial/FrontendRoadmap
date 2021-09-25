@@ -9,4 +9,6 @@
 ### * Step No 2: Learn CSS [Introduction, Syntax, Selector, Comment, Margin, padding, Background, Border, Height, Width, BoxModel, Outline, Text Fonts Icons] etc.
 ### * Step No 3: Learn Javascript  [Introduction, Variables, Data Types, DOM, Types Conversion, Comment, List, Conditions, Loop, Object, Functions, Scope, Math, Dates, Try Catch, File, User Input etc.]
 
-## Task 
+### Learning Resources: W3 Schools/ Mozilla Developers
+
+
