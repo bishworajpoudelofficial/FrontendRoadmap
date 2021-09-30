@@ -14,12 +14,15 @@
 - Build Some Project like google homepage, facebook homepage, local static website and publish it on website.
 - Build Your Personal / Portfolio Website and Publish it Online.
 - For Frontend, github pages provides free hosting.
+- View Sample Projects.
 
-- Step No 4: Learn Bootstrap
+- Step No 4: Learn Bootstrap / Tailwind CSS
 - Step No 5: Learn One Frontend Technology [React, Vue, Angular] 
 * Dont Forget to learn state management 
 
+## UI/ UX Design: Figma, XD 
 ## Static Site Generator: Hugo, MKDOCS 
+
 
 ### Learning Resources: W3 Schools/ Mozilla Developers
 
