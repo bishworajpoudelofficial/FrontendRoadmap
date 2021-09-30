@@ -26,6 +26,8 @@
 
 ### Learning Resources: W3 Schools/ Mozilla Developers
 
+## For App Frontend: Flutter, React Native
+
 
 
 
